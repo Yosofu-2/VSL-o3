@@ -1,0 +1,16 @@
+version: '3.8'
+
+services:
+  backend:
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./data:/app/data
+      - ./backend/avatars:/app/backend/avatars
+      - ./backend/backups:/app/backend/backups
+    environment:
+      - LITMAN_DB_PATH=/app/data/library.db
+      - SECRET_KEY=change-me-in-production
+      - API_KEY_ENCRYPTION_KEY=change-me-in-production
+    restart: unless-stopped
