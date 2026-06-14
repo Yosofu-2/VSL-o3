@@ -721,9 +721,7 @@ Please follow [Conventional Commits](https://www.conventionalcommits.org/) for c
 
 | Name / 姓名 | Role / 角色 | Contact / 联系方式 |
 |:---|:---|:---|
-| [Your Name] | Lead Developer / 首席开发 | [your.email@example.com] |
-| [Team Member] | Backend Developer / 后端开发 | [email@example.com] |
-| [Team Member] | Frontend Developer / 前端开发 | [email@example.com] |
+| [Yosofu_2] | Lead Developer / 首席开发 | [3380683595@qq.com] |
 
 ### Technology Partners / 技术合作伙伴
 
@@ -791,9 +789,9 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 <div align="center">
 
-**Made with ❤️ by the LitManager Team**
+**Made by the LitManager Team**
 
-**由 LitManager 团队用 ❤️ 打造**
+**由 LitManager 团队打造**
 
 [![GitHub stars](https://img.shields.io/github/stars/your-username/litmanager?style=social)](https://github.com/your-username/litmanager)
 [![GitHub forks](https://img.shields.io/github/forks/your-username/litmanager?style=social)](https://github.com/your-username/litmanager)
